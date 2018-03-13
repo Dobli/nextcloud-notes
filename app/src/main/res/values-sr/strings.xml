@@ -21,7 +21,6 @@
     <string name="action_drawer_open">отвори навигацију</string>
     <string name="action_drawer_close">затвори навигацију</string>
     <string name="action_recent">Скорашње</string>
-    <string name="action_starred">Означено звездицом</string>
     <string name="action_uncategorized">Некатегоризовано</string>
     <string name="menu_delete">Обриши</string>
     <string name="menu_copy">Копирај</string>

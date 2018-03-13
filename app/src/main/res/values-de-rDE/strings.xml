@@ -21,7 +21,6 @@
     <string name="action_drawer_open">Navigation öffnen</string>
     <string name="action_drawer_close">Navigation schließen</string>
     <string name="action_recent">Zuletzt geändert</string>
-    <string name="action_starred">Favoriten</string>
     <string name="action_uncategorized">Ohne Kategorie</string>
     <string name="menu_delete">Löschen</string>
     <string name="menu_copy">Kopieren</string>

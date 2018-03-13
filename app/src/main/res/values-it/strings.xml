@@ -21,7 +21,6 @@
     <string name="action_drawer_open">apri navigazione</string>
     <string name="action_drawer_close">chiudi navigazione</string>
     <string name="action_recent">Recenti</string>
-    <string name="action_starred">Preferiti</string>
     <string name="action_uncategorized">Senza categoria</string>
     <string name="menu_delete">Elimina</string>
     <string name="menu_copy">Copia</string>

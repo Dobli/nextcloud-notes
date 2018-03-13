@@ -21,7 +21,6 @@
     <string name="action_drawer_open">открыть навигацию</string>
     <string name="action_drawer_close">закрыть навигацию</string>
     <string name="action_recent">Недавние</string>
-    <string name="action_starred">Отобранные</string>
     <string name="action_uncategorized">Без категории</string>
     <string name="menu_delete">Удалить</string>
     <string name="menu_copy">Копировать</string>

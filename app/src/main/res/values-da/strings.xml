@@ -21,7 +21,6 @@
     <string name="action_drawer_open">Åben navigation</string>
     <string name="action_drawer_close">Luk navigation</string>
     <string name="action_recent">Seneste</string>
-    <string name="action_starred">Stjernemarkeret</string>
     <string name="action_uncategorized">Ikke kategoriseret</string>
     <string name="menu_delete">Slet</string>
     <string name="menu_copy">Kopiér</string>

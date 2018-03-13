@@ -21,7 +21,6 @@
     <string name="action_drawer_open">gezinmeyi aç</string>
     <string name="action_drawer_close">gezinmeyi kapat</string>
     <string name="action_recent">Son</string>
-    <string name="action_starred">Yıldızlı</string>
     <string name="action_uncategorized">Kategorisiz</string>
     <string name="menu_delete">Sil</string>
     <string name="menu_copy">Kopyala</string>

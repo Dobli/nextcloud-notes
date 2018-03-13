@@ -21,7 +21,6 @@
     <string name="action_drawer_open">open navigatie</string>
     <string name="action_drawer_close">sluit navigatie</string>
     <string name="action_recent">Recent</string>
-    <string name="action_starred">Gemarkeerd</string>
     <string name="action_uncategorized">Ongecategorizeerd</string>
     <string name="menu_delete">Verwijderen</string>
     <string name="menu_copy">Kopiëren</string>
